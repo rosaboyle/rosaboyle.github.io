@@ -304,3 +304,20 @@ h3 a:hover {
   bottom: 0;
   line-height: 2.5em;
 }
+
+/**************ADDED BY DHEERAJ***/
+
+.read-more-btn {
+  background-color: #f1f1f1;
+  border: 1px solid #ddd;
+  padding: 5px 15px;
+  margin-top: 10px;
+  cursor: pointer;
+  transition: background-color 0.3s;
+}
+
+.read-more-btn:hover {
+  background-color: #ddd;
+}
+
+
